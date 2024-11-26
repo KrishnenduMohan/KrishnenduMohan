@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @KrishnenduMohan
 - 👀 I’m interested in programing
+- Master's student @university of Wuppertal
 - 🌱 I’m currently learning python and git
 - 💞️ I’m looking to collaborate on new ideas
 - 📫 How to reach me dm
